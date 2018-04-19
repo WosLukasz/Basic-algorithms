@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1522438159 source:c:\users\£ukasz\desktop\nauka\15 djikstra\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<set>
+
